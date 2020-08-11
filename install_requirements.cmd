@@ -1,3 +1,3 @@
 @echo off
-pip install prompt-toolkit pyjwt aiohttp aiosqlite
+pip install prompt-toolkit requests pyjwt aiohttp aiosqlite
 pause
